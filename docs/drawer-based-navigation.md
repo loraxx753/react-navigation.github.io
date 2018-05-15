@@ -64,7 +64,7 @@ const MyApp = createDrawerNavigator({
 });
 ```
 
-To open and close drawer, use the following helpers to open and close the drawer:
+To open and close the drawer, use the following helpers:
 
 ```js
 this.props.navigation.openDrawer();
